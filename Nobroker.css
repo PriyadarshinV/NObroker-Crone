@@ -1,0 +1,188 @@
+body{
+    
+}
+#whole{
+   ;
+}
+#logo{
+
+    align-self: padding-top: 100px;;;
+    width: 125px;
+    height: 35px;
+    margin-right: 1000px;
+    
+    
+
+
+}
+p5{
+    display: flex;
+    align-items: end;
+    margin-left: 500px;
+    color: rgb(128, 121, 121);
+
+}
+
+#nice{
+   
+    margin-left: 600px;
+    align-items:center;
+   
+
+}
+#payrent{
+    text-decoration: none;
+    border-radius:5px solid;
+    font-size: smaller;
+    border-color: rgb(163, 125, 125);
+    color: rgb(156, 151, 151);
+    
+}
+#Property{
+    text-decoration: none;
+    border: 8px solid;
+   
+   background-color: teal;
+    border-color: teal;
+    font-size:smaller;
+    color: antiquewhite;
+    weight: 80px;
+    height: 20px;
+    margin-right: 25px;
+    margin-left: 50px;
+ }
+#signup{
+    text-decoration: none;
+    color: rgb(36, 34, 34);
+    font-size:smaller;
+    margin-right: 25px;
+ }
+ 
+#login{
+    margin-right: 25px;
+    text-decoration: none;
+    font-size: smaller;
+    color: rgb(33, 29, 29);
+ }
+#menu{
+    
+   
+    text-decoration: none;
+    font-size: smaller;
+    color: rgb(33, 29, 29);
+    margin
+    
+
+ }
+
+h1 
+{
+    background: burlywood;
+    text-decoration;
+
+}
+p1{
+    background-color:rgb(253, 241, 223);
+    color: rgb(96, 92, 92);
+    font-size:smaller;
+    border: 15px solid;
+    border-color:rgb(252, 234, 208);
+   
+}
+#p2{
+    
+    text-decoration: none;
+    color: rgb(118, 114, 114);
+    margin-right:200 px;
+    padding-left:px;
+}
+
+#Rent{
+    text-decoration: none;
+    color: rgb(118, 114, 114);
+    padding-left:40px;
+
+}
+#com{
+    text-decoration: none;
+    color: rgb(118, 114, 114);
+    padding-left:40px;
+}
+#p3
+{
+    background: wheat;color:;
+}
+.odd{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size:x-large;
+    
+    
+    
+}
+#city{
+    
+    margin-right: 150px;
+
+}
+#search{
+    margin-left: 30px;
+    padding-right: 80px;
+    border: px solid;
+    
+}
+#red{
+    text-decoration: none;
+    border: 2px solid;
+    border-color: crimson;
+    background-color: crimson;
+    padding-right: 20px;
+    color: antiquewhite;
+    font-size: larger;
+    
+}
+
+#BHK{
+    border: 5px sild;
+    border-color: rgb(157, 150, 150);
+    margin-left: 50px;
+    
+}
+#Avaliablity{
+    margin-left: 40px;
+
+}
+#rough{
+   border-radius: 2px:solid;
+   height: 250px;
+   width:250px;
+   font-size: 30px;
+   margin-top :500px;
+   margin-left: 550px;
+   margin: left 50%;
+
+
+}
+#ad{
+    background-color: rgb(34, 159, 159);
+    color: aliceblue;
+    border-color: rgb(34, 159, 159);
+    text-decoration: none;
+    border: 8px solid;
+   
+   background-color: teal;
+    border-color: teal;
+    font-size:smaller;
+    color: antiquewhite;
+    weight: 60px;
+    height: 20px;
+}
+#end{
+    background-color:rgb(33, 33, 160);
+    color: aliceblue;
+    padding:5px;
+    }
+#last{
+    background-color: aliceblue;
+    color:black ;
+}
